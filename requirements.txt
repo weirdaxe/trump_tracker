@@ -1,0 +1,8 @@
+streamlit
+SQLAlchemy
+truthbrush
+spacy
+textblob
+# sqlite3
+# psycopg2-binary (if using Postgres)
+tqdm
